@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11cd7506-1968-4e09-9b91-3f189125347d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gl1NOlWAzoKEFTbBNH6fzuUIVd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\jirengu\UI-demo-master\docs\.vuepress\img" />
+      <recent name="D:\jirengu\UI-demo\test" />
+      <recent name="D:\jirengu\UI-demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jirengu\UI-demo\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11cd7506-1968-4e09-9b91-3f189125347d" name="Default Changelist" comment="" />
+      <created>1598674323570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598674323570</updated>
+      <workItem from="1598674327132" duration="8079000" />
+      <workItem from="1598750568803" duration="1054000" />
+      <workItem from="1598833897489" duration="12138000" />
+      <workItem from="1598865753489" duration="3345000" />
+      <workItem from="1599011118331" duration="1512000" />
+      <workItem from="1599027621867" duration="231000" />
+      <workItem from="1599027856735" duration="51000" />
+      <workItem from="1599027909944" duration="6260000" />
+      <workItem from="1599097332400" duration="11995000" />
+      <workItem from="1599181914237" duration="7105000" />
+      <workItem from="1599544823319" duration="333000" />
+      <workItem from="1599545168107" duration="10931000" />
+      <workItem from="1599638722597" duration="2926000" />
+      <workItem from="1599720020302" duration="11572000" />
+      <workItem from="1599791241670" duration="6351000" />
+      <workItem from="1600065513659" duration="11952000" />
+      <workItem from="1600150761386" duration="11168000" />
+      <workItem from="1600411142950" duration="1177000" />
+      <workItem from="1600502287921" duration="3459000" />
+      <workItem from="1600764258230" duration="6619000" />
+      <workItem from="1600790776780" duration="1969000" />
+      <workItem from="1600829211391" duration="3137000" />
+      <workItem from="1600844269001" duration="4299000" />
+      <workItem from="1600848589743" duration="70000" />
+      <workItem from="1600849202057" duration="6582000" />
+      <workItem from="1600861309222" duration="5042000" />
+      <workItem from="1600917955565" duration="7074000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="242" key="#Notifications" timestamp="1599557530768">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="508" y="242" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1599557530768" />
+    <state x="369" y="180" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600846528969">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="369" y="180" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1600846528969" />
+    <state x="421" y="135" key="FileChooserDialogImpl" timestamp="1600849217239">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1600849217239" />
+    <state x="-4" y="50" key="SettingsEditor" timestamp="1600849238872">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="-4" y="50" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1600849238872" />
+    <state x="309" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1599201194989">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="309" y="88" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1599201194989" />
+  </component>
+</project>
