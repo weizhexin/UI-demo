@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /1.png
 heroText: A梦组件
 tagline: 简单好用的UI组件
 actionText: 快速上手 →
